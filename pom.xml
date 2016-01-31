@@ -4,7 +4,7 @@
   <artifactId>People</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>People Project</name>
-  <description>Will use people class to manipulate people instances</description>
+  <description>Will use people class and methods</description>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
