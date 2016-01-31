@@ -1,3 +1,3 @@
 --
 # People Project
-Will use people class to manipulate people instances
+* Will use people class and methods
